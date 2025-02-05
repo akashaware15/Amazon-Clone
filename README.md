@@ -1,8 +1,7 @@
 # Amazon-Clone
-<h1>Feature</h1>
-<p> 1.User Management</p>
-<p> 2.Product Management</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<h3>Feature</h3>
+<h5>Homepage</h5>
+<p>Navbar with Logo, Search Bar, and Menu Links</p>
+<p>Hero Banner with Promotions</p>
+<p>Featured Products Section</p>
+<p>Footer with Links</p>
