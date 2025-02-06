@@ -22,4 +22,7 @@
 <h2>Bulit With</h2>
 <li>HTML5</li>
 <li>CSS3</li>
+<hr>
+<h2>Contact</h2>
+<p>If you have any questions or feedback, feel free to reach out at akashaware90@gmail.com</p>
 
