@@ -19,7 +19,7 @@
 <li>E-commerce UI Template – Provide a base for future development with JavaScript or backend integration.</li>
 <li>Educational Purposes – Teach beginners about web structure and responsive design.</li><br>
 <hr>
-<h4>Bulit With</h4>
+<h2>Bulit With</h2>
 <li>HTML5</li>
 <li>CSS3</li>
 
